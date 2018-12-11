@@ -1,0 +1,24 @@
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\bin\Debug\Random Numbers Generator.exe.config
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\bin\Debug\Random Numbers Generator.exe
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\bin\Debug\Random Numbers Generator.pdb
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random_Numbers_Generator.mainWindow.resources
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random_Numbers_Generator.Properties.Resources.resources
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random Numbers Generator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random Numbers Generator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random Numbers Generator.exe
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random Numbers Generator.pdb
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random_Numbers_Generator.dashboard.resources
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random_Numbers_Generator.generator.resources
+C:\Users\user\source\repos\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random Numbers Generator.csprojAssemblyReference.cache
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\bin\Debug\Random Numbers Generator.exe.config
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\bin\Debug\Random Numbers Generator.exe
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\bin\Debug\Random Numbers Generator.pdb
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random Numbers Generator.csprojAssemblyReference.cache
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random_Numbers_Generator.dashboard.resources
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random_Numbers_Generator.mainWindow.resources
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random_Numbers_Generator.Properties.Resources.resources
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random_Numbers_Generator.generator.resources
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random Numbers Generator.csproj.GenerateResource.cache
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random Numbers Generator.csproj.CoreCompileInputs.cache
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random Numbers Generator.exe
+G:\programyportfolio\Random Numbers Generator\Random Numbers Generator\obj\Debug\Random Numbers Generator.pdb

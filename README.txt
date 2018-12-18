@@ -41,7 +41,8 @@ Just run and exe program from bin/debug
 /////////////////////////////////////////////
 
 For more info about code read comments in 
-source files
+source files or load project into Visual 
+Studio and read source code of each element
 
 Last updated 2018-11-12 22:53
 
